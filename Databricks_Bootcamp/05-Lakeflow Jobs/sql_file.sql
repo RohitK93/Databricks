@@ -1,0 +1,1 @@
+select * from delta.`/Volumes/dba/bronze/jobvolume/raw/stores/`
