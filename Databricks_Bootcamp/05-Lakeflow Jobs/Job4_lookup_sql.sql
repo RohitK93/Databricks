@@ -1,0 +1,1 @@
+select * from dba.bronze.lookup_table;
